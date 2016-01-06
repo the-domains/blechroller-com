@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: 'Es war warm, trocken und wunderbares Wetter – zumindest am Auricher Hafen. Das Auswahlkriterium für die Customshow war für uns: Knallige Farben! Die Gewinner der diesjährigen Anrollern Customshow haben sich somit durch ihre außergewöhnliche Farbgebung vor der Konkurrenz behaupten können.'
-datePublished: '2016-01-06T20:26:03.661Z'
-dateModified: '2016-01-06T20:25:49.164Z'
+datePublished: '2016-01-06T21:27:35.460Z'
+dateModified: '2016-01-06T21:18:31.509Z'
 title: Ein Nachbericht zum Auricher Anrollern 2015
 author: []
+sourcePath: _posts/2016-01-06-ein-nachbericht-zum-auricher-anrollern-2015.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-06-ein-nachbericht-zum-auricher-anrollern-2015.md
-published: true
 url: ein-nachbericht-zum-auricher-anrollern-2015/index.html
-_type: Article
+_type: WebPage
 
 ---
 ### Ein Nachbericht zum Auricher Anrollern 2015
