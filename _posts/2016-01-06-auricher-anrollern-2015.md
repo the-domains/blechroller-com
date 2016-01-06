@@ -1,14 +1,9 @@
 ---
-author:
-  - name: Tobias Rehermann
-    url: 'https://www.youtube.com/user/ziehdirdasmalrein'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: true
+inNav: true
+inLanguage: en
+starred: false
 keywords:
   - anrollern
   - duration
@@ -21,7 +16,13 @@ keywords:
   - rollerk
   - lambretta
 description: Abfahrt am Auricher Hafen - auricher anrollern 2015
-inLanguage: en
+datePublished: '2016-01-06T21:26:18.343Z'
+dateModified: '2016-01-06T21:25:41.048Z'
+author:
+  - name: Tobias Rehermann
+    url: 'https://www.youtube.com/user/ziehdirdasmalrein'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=_B4ZtZdMCNk&feature=applinks'
     type: ios
@@ -33,15 +34,16 @@ app_links:
     package: com.google.android.youtube
   - url: 'https://www.youtube.com/watch?v=_B4ZtZdMCNk&feature=applinks'
     type: web
-isBasedOnUrl: 'https://www.youtube.com/watch?v=_B4ZtZdMCNk'
 title: Auricher Anrollern 2015
-datePublished: '2016-01-06T21:22:28.390Z'
-dateModified: '2016-01-06T21:20:33.402Z'
 sourcePath: _posts/2016-01-06-auricher-anrollern-2015.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+url: auricher-anrollern-2015/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
