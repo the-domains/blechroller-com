@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Schaltrollerkultur]]></title>
-        <description><![CDATA[Schaltrollerkultur]]></description>
+        <title><![CDATA[blechroller.com]]></title>
+        <description><![CDATA[blechroller.com]]></description>
         <link>https://thegrid.ai/blechroller-com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Jan 2016 20:45:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jan 2016 20:50:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/blechroller-com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Ein Nachbericht zum Auricher Anrollern 2015]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/blechroller-com/ein-nachbericht-zum-auricher-anrollern-2015/index.html</link>
             <guid isPermaLink="false">9cdac52b-61d4-4e31-bed7-2416f54b07cf</guid>
             <pubDate>Wed, 06 Jan 2016 20:26:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://www.blechroller.com/wp-content/uploads/MG_5606-1024x682.jpeg">]]></description>
+            <link>https://thegrid.ai/blechroller-com/bilder-vom-abrollern-2014-geschrieben-von-tobi-schlagworte/index.html</link>
+            <guid isPermaLink="false">cb06dafa-1399-4627-b209-2834f37131fa</guid>
+            <pubDate>Wed, 06 Jan 2016 20:49:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
