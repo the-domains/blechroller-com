@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-06T20:36:47.251Z'
-dateModified: '2016-01-06T20:36:06.235Z'
+datePublished: '2016-01-06T21:27:26.477Z'
+dateModified: '2016-01-06T20:47:04.456Z'
 title: Auricher Abrollern 03.10.2015
 author: []
+sourcePath: _posts/2016-01-06-auricher-abrollern-03102015.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-06-auricher-abrollern-03102015.md
-published: true
 url: auricher-abrollern-03102015/index.html
 _type: Article
 
