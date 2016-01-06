@@ -1,6 +1,6 @@
 name: Blechroller.com
 favicon: null
-layout_spectrum: 0.18117756838910282
+layout_spectrum: 1
 typography_spectrum: 0.5647390196099877
 title: Schaltrollerkultur
 cta:
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.375
   lightness: 0.0725075202062726
   saturation: 0.7817127760499716
-  rhythmicContrast: 0.16617542528547347
+  rhythmicContrast: 0.5
 purpose: []
