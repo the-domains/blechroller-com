@@ -1,14 +1,9 @@
 ---
-author:
-  - name: Vespa Wilhelmshaven
-    url: 'https://www.youtube.com/channel/UCIga4c3Z3j0CIm2fQJEltfQ'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: true
+inNav: true
+inLanguage: en
+starred: false
 keywords:
   - wilhelmshaven
   - abrollern
@@ -21,7 +16,13 @@ keywords:
   - anrollern
   - dahope1234
 description: Vespa Wilhelmshaven besucht das Auricher Abrollern 2015.
-inLanguage: en
+datePublished: '2016-01-06T21:26:01.611Z'
+dateModified: '2016-01-06T21:25:52.923Z'
+author:
+  - name: Vespa Wilhelmshaven
+    url: 'https://www.youtube.com/channel/UCIga4c3Z3j0CIm2fQJEltfQ'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=CN-SgNWWU88&feature=applinks'
     type: ios
@@ -33,15 +34,16 @@ app_links:
     package: com.google.android.youtube
   - url: 'https://www.youtube.com/watch?v=CN-SgNWWU88&feature=applinks'
     type: web
-isBasedOnUrl: 'https://www.youtube.com/watch?v=CN-SgNWWU88'
 title: Abrollern Aurich 2015
-datePublished: '2016-01-06T21:22:28.335Z'
-dateModified: '2016-01-06T21:20:07.233Z'
 sourcePath: _posts/2016-01-06-abrollern-aurich-2015.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+url: abrollern-aurich-2015/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
