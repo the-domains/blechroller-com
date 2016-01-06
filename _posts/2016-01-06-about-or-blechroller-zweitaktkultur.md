@@ -1,27 +1,29 @@
 ---
+inFeed: true
+hasPage: true
+inNav: true
+inLanguage: de
+starred: false
+keywords: []
+description: 'Wer ist Blechroller.com ? Wir sind die verantwortlichen von Blechroller.com. Fünf Jungs und ne Handvoll Mädels, ( einige von Ihnen :mrgreen:) in den besten Jahren für die Rollerfahren keine schnöde Fortbewegung sondern eine Lebenseinstellung ist! Und wenn wir nicht gestorben sind, fahren wir auch noch mit 99 Jahren auf unseren alten Ladys duch die Weltgeschichte.'
+datePublished: '2016-01-06T21:27:07.162Z'
+dateModified: '2016-01-06T21:27:03.705Z'
 author:
   - name: tobi
     url: 'http://www.blechroller.com'
     avatar: {}
 related: []
-publisher:
-  url: 'http://www.blechroller.com'
-  name: Blechroller - Zweitaktkultur
-  favicon: 'http://www.blechroller.com/favicon.ico'
-  domain: www.blechroller.com
-keywords: []
-description: 'Wer ist Blechroller.com ? Wir sind die verantwortlichen von Blechroller.com. Fünf Jungs und ne Handvoll Mädels, ( einige von Ihnen :mrgreen:) in den besten Jahren für die Rollerfahren keine schnöde Fortbewegung sondern eine Lebenseinstellung ist! Und wenn wir nicht gestorben sind, fahren wir auch noch mit 99 Jahren auf unseren alten Ladys duch die Weltgeschichte.'
-inLanguage: de
 app_links: []
-isBasedOnUrl: 'http://www.blechroller.com/kategorie/about/'
 title: 'About | Blechroller - Zweitaktkultur'
-datePublished: '2016-01-06T21:15:48.901Z'
-dateModified: '2016-01-06T21:12:55.608Z'
 sourcePath: _posts/2016-01-06-about-or-blechroller-zweitaktkultur.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Blechroller - Zweitaktkultur
+  domain: www.blechroller.com
+  url: 'http://www.blechroller.com'
+  favicon: 'http://www.blechroller.com/favicon.ico'
+url: about-or-blechroller-zweitaktkultur/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
