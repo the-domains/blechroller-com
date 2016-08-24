@@ -6,36 +6,36 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.1745435
   brandStrength: 0.5
-  lightness: 0.5
+  rhythmicContrast: 0.5
   brandColors:
     - '#bdb292'
     - '#e9f2df'
     - '#896859'
     - '#68453f'
     - '#3b1721'
-  rhythmicContrast: 0.5
-cta:
-  bucket: null
-  version: null
-  domain: null
+  lightness: 0.5
 analytics:
   twitter: null
   google: null
   facebook: null
 favicon: null
+cta:
+  bucket: null
+  version: null
+  domain: null
 name: Blechroller.com
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.48607
-layout_spectrum: 0.6138561
+layout_spectrum: 0.5440387
